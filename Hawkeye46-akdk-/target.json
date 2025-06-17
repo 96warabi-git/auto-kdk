@@ -1,0 +1,10 @@
+{
+    "include": [
+        {
+            "keyboard": "hawkeye46",
+            "keymap": "vial",
+            "target": "uf2",
+            "name": "hawkeye46_vial"
+        }
+    ]
+}
